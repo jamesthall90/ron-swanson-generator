@@ -1,0 +1,16 @@
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Read/bin/Debug/netcoreapp2.0/Read.deps.json
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Read/bin/Debug/netcoreapp2.0/Read.dll
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Read/bin/Debug/netcoreapp2.0/Read.pdb
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Read/obj/Debug/netcoreapp2.0/Read.csprojResolveAssemblyReference.cache
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Read/obj/Debug/netcoreapp2.0/Read.csproj.CoreCompileInputs.cache
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Read/obj/Debug/netcoreapp2.0/Read.AssemblyInfoInputs.cache
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Read/obj/Debug/netcoreapp2.0/Read.AssemblyInfo.cs
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Read/obj/Debug/netcoreapp2.0/Read.dll
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Read/obj/Debug/netcoreapp2.0/Read.pdb
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Read/bin/Debug/netcoreapp2.0/DataAccess.dll
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Read/bin/Debug/netcoreapp2.0/Infrastructure.dll
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Read/bin/Debug/netcoreapp2.0/Models.dll
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Read/bin/Debug/netcoreapp2.0/DataAccess.pdb
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Read/bin/Debug/netcoreapp2.0/Infrastructure.pdb
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Read/bin/Debug/netcoreapp2.0/Models.pdb
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Read/obj/Debug/netcoreapp2.0/Read.csproj.CopyComplete

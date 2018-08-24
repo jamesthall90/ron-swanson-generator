@@ -1,0 +1,13 @@
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Models/bin/Debug/netcoreapp2.0/Models.deps.json
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Models/bin/Debug/netcoreapp2.0/Models.dll
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Models/bin/Debug/netcoreapp2.0/Models.pdb
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Models/obj/Debug/netcoreapp2.0/Models.csprojResolveAssemblyReference.cache
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Models/obj/Debug/netcoreapp2.0/Models.csproj.CoreCompileInputs.cache
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Models/obj/Debug/netcoreapp2.0/Models.AssemblyInfoInputs.cache
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Models/obj/Debug/netcoreapp2.0/Models.AssemblyInfo.cs
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Models/obj/Debug/netcoreapp2.0/Models.dll
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Models/obj/Debug/netcoreapp2.0/Models.pdb
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Models/bin/Debug/netcoreapp2.0/AutoMapper.dll
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Models/bin/Debug/netcoreapp2.0/AutoMapper.pdb
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Models/bin/Debug/netcoreapp2.0/AutoMapper.xml
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Models/obj/Debug/netcoreapp2.0/Models.csproj.CopyComplete

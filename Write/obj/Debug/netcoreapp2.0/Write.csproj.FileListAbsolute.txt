@@ -1,0 +1,8 @@
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Write/bin/Debug/netcoreapp2.0/Write.deps.json
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Write/bin/Debug/netcoreapp2.0/Write.dll
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Write/bin/Debug/netcoreapp2.0/Write.pdb
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Write/obj/Debug/netcoreapp2.0/Write.csproj.CoreCompileInputs.cache
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Write/obj/Debug/netcoreapp2.0/Write.AssemblyInfoInputs.cache
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Write/obj/Debug/netcoreapp2.0/Write.AssemblyInfo.cs
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Write/obj/Debug/netcoreapp2.0/Write.dll
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Write/obj/Debug/netcoreapp2.0/Write.pdb

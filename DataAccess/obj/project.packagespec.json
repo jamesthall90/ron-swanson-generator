@@ -1,0 +1,67 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/TylerHall/RiderProjects/ron-swanson-generator/DataAccess/DataAccess.csproj",
+    "projectName": "DataAccess",
+    "projectPath": "/Users/TylerHall/RiderProjects/ron-swanson-generator/DataAccess/DataAccess.csproj",
+    "outputPath": "/Users/TylerHall/RiderProjects/ron-swanson-generator/DataAccess/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/Users/TylerHall/RiderProjects/ron-swanson-generator/Models/Models.csproj": {
+            "projectPath": "/Users/TylerHall/RiderProjects/ron-swanson-generator/Models/Models.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "AutoMapper": {
+          "target": "Package",
+          "version": "[7.0.1, )"
+        },
+        "Autofac": {
+          "target": "Package",
+          "version": "[4.8.1, )"
+        },
+        "Microsoft.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "[2.1.1, )"
+        },
+        "Microsoft.EntityFrameworkCore.Design": {
+          "target": "Package",
+          "version": "[2.1.1, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        },
+        "Npgsql.EntityFrameworkCore.PostgreSQL": {
+          "target": "Package",
+          "version": "[2.1.1.1, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

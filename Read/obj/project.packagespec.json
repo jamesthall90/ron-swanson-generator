@@ -1,0 +1,57 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/TylerHall/RiderProjects/ron-swanson-generator/Read/Read.csproj",
+    "projectName": "Read",
+    "projectPath": "/Users/TylerHall/RiderProjects/ron-swanson-generator/Read/Read.csproj",
+    "outputPath": "/Users/TylerHall/RiderProjects/ron-swanson-generator/Read/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/Users/TylerHall/RiderProjects/ron-swanson-generator/DataAccess/DataAccess.csproj": {
+            "projectPath": "/Users/TylerHall/RiderProjects/ron-swanson-generator/DataAccess/DataAccess.csproj"
+          },
+          "/Users/TylerHall/RiderProjects/ron-swanson-generator/Infrastructure/Infrastructure.csproj": {
+            "projectPath": "/Users/TylerHall/RiderProjects/ron-swanson-generator/Infrastructure/Infrastructure.csproj"
+          },
+          "/Users/TylerHall/RiderProjects/ron-swanson-generator/Models/Models.csproj": {
+            "projectPath": "/Users/TylerHall/RiderProjects/ron-swanson-generator/Models/Models.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        },
+        "NodaTime": {
+          "target": "Package",
+          "version": "[2.3.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
