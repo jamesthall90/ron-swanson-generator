@@ -7,6 +7,7 @@ using Infrastructure.Interfaces.ReadModel;
 using Microsoft.EntityFrameworkCore;
 using Models.Domain;
 using Models.DTO;
+using Models.DTO.RonSwansonQuote;
 using Read.Queries.Quotes;
 
 namespace Read.QueryHandlers.Quotes

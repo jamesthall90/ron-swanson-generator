@@ -1,10 +1,14 @@
-﻿using System.Threading;
+﻿using System;
+using System.Linq;
+using System.Threading;
 using System.Threading.Tasks;
 using AutoMapper;
 using DataAccess;
+using Infrastructure.Extensions;
 using Infrastructure.Interfaces.ReadModel;
 using Microsoft.EntityFrameworkCore;
 using Models.DTO;
+using Models.DTO.RonSwansonQuote;
 using Read.Queries.Quotes;
 
 namespace Read.QueryHandlers.Quotes
@@ -22,9 +26,12 @@ namespace Read.QueryHandlers.Quotes
         
         public async Task<RonSwansonQuoteDetailDto> Handle(GetRandomSwansonQuoteQuery query, CancellationToken token)
         {
-            var randomQuote = await _context.RonSwansonQuotes
+            var quoteList = await _context.RonSwansonQuotes
                 .AsNoTracking()
-                .FirstOrDefaultAsync(token);
+                .ToListAsync(token);
+            
+            // Returns a random Ron Swanson quote using custom Shuffle extension method
+            var randomQuote = quoteList.Shuffle().SingleOrDefault();
             
             return _mapper.Map<RonSwansonQuoteDetailDto>(randomQuote);
         }

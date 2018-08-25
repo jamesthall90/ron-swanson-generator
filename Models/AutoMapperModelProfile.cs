@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using Models.Domain;
 using Models.DTO;
+using Models.DTO.RonSwansonQuote;
 
 namespace Models
 {

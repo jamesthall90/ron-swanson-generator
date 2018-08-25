@@ -17,31 +17,23 @@ namespace Infrastructure.ReadModel
             _context = context;
         }
 
+        /// <inheritdoc />
         public Task<TResult> Process<TResult>(IQuery<TResult> query, CancellationToken token = default(CancellationToken))
         {
-            // Uses reflection to call Process Internal 
+            // Gets the MethodInfo for ProcessInternal
             // with reflection so that the query's type 
             // and result type are retrieved at compile time
             var genericMethod = typeof(QueryProcessor)
-                .GetMethod("ProcessInternal")
+                .GetMethod("ProcessInternal", BindingFlags.NonPublic | BindingFlags.Instance)
                 .MakeGenericMethod(query.GetType(), typeof(TResult));
             
-            try
-            {
-                var result = genericMethod.Invoke(this, new object[] { query, token });
-                return (Task<TResult>)result;
-            }
-            catch (Exception e)
-            {
-                Console.WriteLine(e);
-                throw;
-            }
-
-            return null;
-
+            // Calls ProcessInternal using delegate with query and  
+            var result = genericMethod.Invoke(this, new object[] { query, token });
+                
+            return (Task<TResult>)result;
         }
 
-        public Task<TResult> ProcessInternal<TQuery, TResult>(TQuery query, CancellationToken token)
+        internal Task<TResult> ProcessInternal<TQuery, TResult>(TQuery query, CancellationToken token)
             where TQuery : IQuery<TResult>
         {
             // Uses Autofac to retrieve a QueryHandler whose signature matches

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Models.DTO
+namespace Models.DTO.RonSwansonQuote
 {
     public class RonSwansonQuoteDetailDto
     {
