@@ -1,6 +1,6 @@
 # ron-swanson-generator 
 
-Created as a nod to [jamesseanwright](https://github.com/jamesseanwright)'s ridiculously simple Node-based Ron Swanson Quote API (and because Ron Swanson is my hero), this is an unnecessarily-overbuilt .NET Core API that will perform the same actions, and eventually even more. Essentially, it's an amusing way for me to try out some new things with .NET Core.
+Created as a nod to [jamesseanwright](https://github.com/jamesseanwright)'s ridiculously simple Node-based Ron Swanson Quote API (and because Ron Swanson is my hero), this is an unnecessarily-overbuilt .NET Core API that performs the same basic functions, and will eventually support even more. Essentially, it's an amusing way for me to try out some new things with .NET Core.
 
 The API is built using the [Command Query Separation (CQS)](https://martinfowler.com/bliki/CommandQuerySeparation.html) design pattern, which reduces coupling within the codebase and sets clear, separate paths for the Read and Write sides of the API. 
 
