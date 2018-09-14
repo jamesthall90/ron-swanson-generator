@@ -11,3 +11,4 @@
 /Users/TylerHall/RiderProjects/ron-swanson-generator/DataAccess/obj/Debug/netcoreapp2.0/DataAccess.pdb
 /Users/TylerHall/RiderProjects/ron-swanson-generator/DataAccess/bin/Debug/netcoreapp2.0/DataAccess.runtimeconfig.json
 /Users/TylerHall/RiderProjects/ron-swanson-generator/DataAccess/bin/Debug/netcoreapp2.0/DataAccess.runtimeconfig.dev.json
+/Users/TylerHall/RiderProjects/ron-swanson-generator/DataAccess/obj/Debug/netcoreapp2.0/DataAccess.csprojResolveAssemblyReference.cache

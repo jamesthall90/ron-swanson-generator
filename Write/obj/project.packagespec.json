@@ -14,7 +14,17 @@
     ],
     "frameworks": {
       "netcoreapp2.0": {
-        "projectReferences": {}
+        "projectReferences": {
+          "/Users/TylerHall/RiderProjects/ron-swanson-generator/DataAccess/DataAccess.csproj": {
+            "projectPath": "/Users/TylerHall/RiderProjects/ron-swanson-generator/DataAccess/DataAccess.csproj"
+          },
+          "/Users/TylerHall/RiderProjects/ron-swanson-generator/Infrastructure/Infrastructure.csproj": {
+            "projectPath": "/Users/TylerHall/RiderProjects/ron-swanson-generator/Infrastructure/Infrastructure.csproj"
+          },
+          "/Users/TylerHall/RiderProjects/ron-swanson-generator/Models/Models.csproj": {
+            "projectPath": "/Users/TylerHall/RiderProjects/ron-swanson-generator/Models/Models.csproj"
+          }
+        }
       }
     },
     "warningProperties": {

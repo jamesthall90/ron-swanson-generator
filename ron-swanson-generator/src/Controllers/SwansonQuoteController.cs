@@ -67,7 +67,7 @@ namespace ron_swanson_generator.Controllers
         }
 
         /// <summary>
-        /// Create a multiple new Ron Swanson quotes
+        /// Create multiple new Ron Swanson quotes
         /// from an input list
         /// </summary>
         /// <param name="inputList">List of quotes to create</param>
