@@ -1,0 +1,16 @@
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Data Access/bin/Debug/netcoreapp2.0/Data Access.deps.json
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Data Access/bin/Debug/netcoreapp2.0/Data Access.dll
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Data Access/bin/Debug/netcoreapp2.0/Data Access.pdb
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Data Access/bin/Debug/netcoreapp2.0/Models.dll
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Data Access/bin/Debug/netcoreapp2.0/Models.pdb
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Data Access/obj/Debug/netcoreapp2.0/Data Access.csprojResolveAssemblyReference.cache
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Data Access/obj/Debug/netcoreapp2.0/Data Access.csproj.CoreCompileInputs.cache
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Data Access/obj/Debug/netcoreapp2.0/Data Access.AssemblyInfoInputs.cache
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Data Access/obj/Debug/netcoreapp2.0/Data Access.AssemblyInfo.cs
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Data Access/obj/Debug/netcoreapp2.0/Data Access.csproj.CopyComplete
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Data Access/obj/Debug/netcoreapp2.0/Data Access.dll
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Data Access/obj/Debug/netcoreapp2.0/Data Access.pdb
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Data Access/bin/Debug/netcoreapp2.0/Data Access.runtimeconfig.json
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Data Access/bin/Debug/netcoreapp2.0/Data Access.runtimeconfig.dev.json
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Data Access/bin/Debug/netcoreapp2.0/ron-swanson-generator.dll
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Data Access/bin/Debug/netcoreapp2.0/ron-swanson-generator.pdb

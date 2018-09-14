@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2018.1/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_ron-swanson-generator.9185934.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="API" t="Include" />
+      <e p="DataAccess" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Contexts" t="Include">
+          <e p="Interfaces" t="Include">
+            <e p="IRonSwansonContext.cs" t="Include" />
+          </e>
+          <e p="RonSwansonContext.cs" t="Include" />
+        </e>
+        <e p="DataAccess.csproj" t="IncludeRecursive" />
+        <e p="DataAccessAutofacModule.cs" t="Include" />
+        <e p="Migrations" t="Include">
+          <e p="20180820233520_Initial.cs" t="Include" />
+          <e p="20180820233520_Initial.Designer.cs" t="Include" />
+          <e p="20180821001230_Second.cs" t="Include" />
+          <e p="20180821001230_Second.Designer.cs" t="Include" />
+          <e p="RonSwansonContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="DataAccess.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Infrastructure" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Extensions" t="Include">
+          <e p="IQueryableExtensions.cs" t="Include" />
+          <e p="ListExtensions.cs" t="Include" />
+        </e>
+        <e p="Infrastructure.csproj" t="IncludeRecursive" />
+        <e p="InfrastructureAutofacModule.cs" t="Include" />
+        <e p="Interfaces" t="Include">
+          <e p="ReadModel" t="Include">
+            <e p="IQuery.cs" t="Include" />
+            <e p="IQueryHandler.cs" t="Include" />
+            <e p="IQueryProcessor.cs" t="Include" />
+          </e>
+          <e p="WriteModel" t="Include">
+            <e p="ICommand.cs" t="Include" />
+            <e p="ICommandDispatcher.cs" t="Include" />
+            <e p="ICommandHandler.cs" t="Include" />
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="Infrastructure.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ReadModel" t="Include">
+          <e p="QueryProcessor.cs" t="Include" />
+        </e>
+        <e p="WriteModel" t="Include">
+          <e p="CommandDispatcher.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Models" t="IncludeRecursive">
+        <e p="AutoMapperModelProfile.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Domain" t="Include">
+          <e p="RonSwansonQuote.cs" t="Include" />
+        </e>
+        <e p="DTO" t="Include">
+          <e p="RonSwansonQuote" t="Include">
+            <e p="CreateRonSwansonQuoteInputDto.cs" t="Include" />
+            <e p="RonSwansonQuoteDetailDTO.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Models.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="Models.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Read" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="Read.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Queries" t="Include">
+          <e p="Quotes" t="Include">
+            <e p="GetRandomSwansonQuoteQuery.cs" t="Include" />
+            <e p="GetSingleSwansonQuoteQuery.cs" t="Include" />
+          </e>
+        </e>
+        <e p="QueryHandlers" t="Include">
+          <e p="Quotes" t="Include">
+            <e p="GetRandomSwansonQuoteQueryHandler.cs" t="Include" />
+            <e p="GetSingleSwansonQuoteQueryHandler.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Read.csproj" t="IncludeRecursive" />
+        <e p="ReadModelAutofacModule.cs" t="Include" />
+      </e>
+      <e p="ReadModel" t="Include" />
+      <e p="ron-swanson-generator/src" t="IncludeRecursive">
+        <e p=".dockerignore" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="SwansonQuoteController.cs" t="Include" />
+        </e>
+        <e p="DesignTimeDBContextFactory.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="ron-swanson-generator.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="ron-swanson-generator.csproj" t="IncludeRecursive" />
+        <e p="Startup.cs" t="Include" />
+        <e p="wwwroot" t="Include" />
+      </e>
+      <e p="ron-swanson-generator.sln" t="IncludeFlat" />
+      <e p="Write" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CommandHandlers" t="Include">
+          <e p="BulkCreateRonSwansonQuoteCommandHandler.cs" t="Include" />
+          <e p="CreateRonSwansonQuoteCommandHandler.cs" t="Include" />
+        </e>
+        <e p="Commands" t="Include">
+          <e p="BulkCreateRonSwansonQuoteCommand.cs" t="Include" />
+          <e p="CreateRonSwansonQuoteCommand.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="Write.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Write.csproj" t="IncludeRecursive" />
+        <e p="WriteModelAutofacModule.cs" t="Include" />
+      </e>
+      <e p="WriteModel" t="Include" />
+    </e>
+  </component>
+</project>

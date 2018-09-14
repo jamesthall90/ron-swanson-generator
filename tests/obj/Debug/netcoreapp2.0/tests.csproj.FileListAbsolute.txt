@@ -1,0 +1,14 @@
+/Users/TylerHall/RiderProjects/ron-swanson-generator/ron-swanson-generator/tests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/TylerHall/RiderProjects/ron-swanson-generator/ron-swanson-generator/tests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/TylerHall/RiderProjects/ron-swanson-generator/ron-swanson-generator/tests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/TylerHall/RiderProjects/ron-swanson-generator/ron-swanson-generator/tests/bin/Debug/netcoreapp2.0/tests.deps.json
+/Users/TylerHall/RiderProjects/ron-swanson-generator/ron-swanson-generator/tests/bin/Debug/netcoreapp2.0/tests.runtimeconfig.json
+/Users/TylerHall/RiderProjects/ron-swanson-generator/ron-swanson-generator/tests/bin/Debug/netcoreapp2.0/tests.runtimeconfig.dev.json
+/Users/TylerHall/RiderProjects/ron-swanson-generator/ron-swanson-generator/tests/bin/Debug/netcoreapp2.0/tests.dll
+/Users/TylerHall/RiderProjects/ron-swanson-generator/ron-swanson-generator/tests/bin/Debug/netcoreapp2.0/tests.pdb
+/Users/TylerHall/RiderProjects/ron-swanson-generator/ron-swanson-generator/tests/obj/Debug/netcoreapp2.0/tests.csprojResolveAssemblyReference.cache
+/Users/TylerHall/RiderProjects/ron-swanson-generator/ron-swanson-generator/tests/obj/Debug/netcoreapp2.0/tests.csproj.CoreCompileInputs.cache
+/Users/TylerHall/RiderProjects/ron-swanson-generator/ron-swanson-generator/tests/obj/Debug/netcoreapp2.0/tests.AssemblyInfoInputs.cache
+/Users/TylerHall/RiderProjects/ron-swanson-generator/ron-swanson-generator/tests/obj/Debug/netcoreapp2.0/tests.AssemblyInfo.cs
+/Users/TylerHall/RiderProjects/ron-swanson-generator/ron-swanson-generator/tests/obj/Debug/netcoreapp2.0/tests.dll
+/Users/TylerHall/RiderProjects/ron-swanson-generator/ron-swanson-generator/tests/obj/Debug/netcoreapp2.0/tests.pdb

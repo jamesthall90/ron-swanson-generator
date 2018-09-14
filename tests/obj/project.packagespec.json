@@ -1,0 +1,63 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/TylerHall/RiderProjects/ron-swanson-generator/tests/tests.csproj",
+    "projectName": "tests",
+    "projectPath": "/Users/TylerHall/RiderProjects/ron-swanson-generator/tests/tests.csproj",
+    "outputPath": "/Users/TylerHall/RiderProjects/ron-swanson-generator/tests/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/Users/TylerHall/RiderProjects/ron-swanson-generator/src/ron_swanson_generator.csproj": {
+            "projectPath": "/Users/TylerHall/RiderProjects/ron-swanson-generator/src/ron_swanson_generator.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "MSTest.TestAdapter": {
+          "target": "Package",
+          "version": "[1.2.1, )"
+        },
+        "MSTest.TestFramework": {
+          "target": "Package",
+          "version": "[1.2.1, )"
+        },
+        "Microsoft.EntityFrameworkCore.Relational": {
+          "target": "Package",
+          "version": "[2.1.1, )"
+        },
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[15.7.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
