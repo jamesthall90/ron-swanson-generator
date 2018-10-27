@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v2.0": {
       "Write/1.0.0": {
         "dependencies": {
+          "AutoMapper": "7.0.1",
           "Autofac": "4.8.1",
           "DataAccess": "1.0.0",
           "Infrastructure": "1.0.0",
@@ -609,6 +610,7 @@
       },
       "Models/1.0.0": {
         "dependencies": {
+          "AutoMapper": "7.0.1",
           "NodaTime": "2.3.0"
         },
         "runtime": {

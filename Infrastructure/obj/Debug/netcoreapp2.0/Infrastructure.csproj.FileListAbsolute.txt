@@ -6,3 +6,4 @@
 /Users/TylerHall/RiderProjects/ron-swanson-generator/Infrastructure/obj/Debug/netcoreapp2.0/Infrastructure.AssemblyInfo.cs
 /Users/TylerHall/RiderProjects/ron-swanson-generator/Infrastructure/obj/Debug/netcoreapp2.0/Infrastructure.dll
 /Users/TylerHall/RiderProjects/ron-swanson-generator/Infrastructure/obj/Debug/netcoreapp2.0/Infrastructure.pdb
+/Users/TylerHall/RiderProjects/ron-swanson-generator/Infrastructure/obj/Debug/netcoreapp2.0/Infrastructure.csprojResolveAssemblyReference.cache

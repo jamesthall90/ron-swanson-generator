@@ -589,6 +589,7 @@
       },
       "Models/1.0.0": {
         "dependencies": {
+          "AutoMapper": "7.0.1",
           "NodaTime": "2.3.0"
         },
         "runtime": {

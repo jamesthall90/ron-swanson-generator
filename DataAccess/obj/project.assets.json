@@ -1137,6 +1137,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
         "dependencies": {
+          "AutoMapper": "7.0.1",
           "NodaTime": "2.3.0"
         },
         "compile": {
