@@ -42,7 +42,7 @@ namespace ron_swanson_generator.Controllers
         /// Generate a single, random Ron Swanson quote
         /// </summary>
         /// <param name="token">Cancellation token</param>
-        /// <returns></returns>
+        /// <returns> RonSwansonQuoteDetailDTO</returns>
         /// 
         [HttpGet("GetRandomSingle")]
         public async Task<RonSwansonQuoteDetailDto> GetRandomSingle(CancellationToken token)
